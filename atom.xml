@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://hnugsf.github.io/atom.xml" rel="self"/>
   <link href="http://hnugsf.github.io/"/>
-  <updated>2016-06-19T10:43:34+08:00</updated>
+  <updated>2016-06-19T10:52:19+08:00</updated>
   <id>http://hnugsf.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[测试4]]></title>
+    <link href="http://hnugsf.github.io/blog/2016/06/19/ce-shi-4/"/>
+    <updated>2016-06-19T10:48:33+08:00</updated>
+    <id>http://hnugsf.github.io/blog/2016/06/19/ce-shi-4</id>
+    <content type="html"><![CDATA[<p>好像这个没有版式 还不可以添加标点符号 需要一个搜狗输入法 并且还不能换行 dsshjuiahioghauilhgliuahglap[hga;hpgjh.n;h;gayp;hg shua.hgmnhuilafyhlghn;.an;igyuagn 英文字母是可以添加标点符号的.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test3]]></title>
